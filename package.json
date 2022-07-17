@@ -1,0 +1,32 @@
+{
+  "name": "vue-svg-sfc-loader",
+  "version": "1.0.1",
+  "description": "webpack loader: load svg as vue component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyascend/vue-svg-sfc-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "vue",
+    "svg",
+    "loader",
+    "sfc"
+  ],
+  "author": {
+    "name": "zyascend",
+    "email": "zyascend@qq.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyascend/vue-svg-sfc-loader/issues"
+  },
+  "homepage": "https://github.com/zyascend/vue-svg-sfc-loader#readme",
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.2.37"
+  }
+}
